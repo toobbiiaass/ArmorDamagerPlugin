@@ -1,0 +1,4 @@
+name: ArmorDamagerWithoutRod
+version: '${project.version}'
+main: firstprogramm.armordamagerwithoutrod.ArmorDamagerWithoutRod
+api-version: '1.20'

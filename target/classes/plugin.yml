@@ -1,0 +1,4 @@
+name: ArmorDamagerWithoutRod
+version: '1.0-SNAPSHOT'
+main: firstprogramm.armordamagerwithoutrod.ArmorDamagerWithoutRod
+api-version: '1.20'
